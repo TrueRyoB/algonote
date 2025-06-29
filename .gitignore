@@ -1,2 +1,2 @@
-*.DS_Score
-*.obsidian
+*.DS_Store
+.obsidian/

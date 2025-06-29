@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0e98100ab9f01df6",
+        "id": "1467e0f585a3bb68",
         "type": "tabs",
         "children": [
           {
-            "id": "77be133a54a6ff8d",
+            "id": "4c42bfbe7f08a484",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基本データ構造.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "基本データ構造"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "直積",
+                "query": "グラフ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +70,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "0cc9c19ba9751168",
@@ -169,34 +164,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77be133a54a6ff8d",
+  "active": "4c42bfbe7f08a484",
   "lastOpenFiles": [
-    "直和型.md",
-    "基本データ構造.md",
-    "直積型.md",
-    "基底.md",
-    "調査不足.md",
-    "疎卓.md",
-    "セグメント木.md",
-    "モの演算手順.md",
-    "全方位木DP.md",
-    "README.md",
-    "algonote/README.md",
-    "algonote",
-    "有限写像型.md",
-    "高速フーリエ変換.md",
-    "形式的冪級数.md",
-    "中国余剰定理.md",
-    "約数列挙.md",
+    "二分探索.md",
+    "超技巧あるいは閃き.md",
+    "貪欲.md",
+    "逆算.md",
+    "全探索.md",
+    "順列全探索.md",
     "累積和.md",
     "組み合わせ論理.md",
-    "繰り返し二乗法.md",
-    "貪欲.md",
-    "超技巧あるいは閃き.md",
-    "通り数を減らす全列挙.md",
-    "逆元.md",
-    "遅延セグメント木.md",
-    "配列操作.md",
-    "階差数列.md"
+    "無名関数.md",
+    "期待値DP.md",
+    "巡回サラリーマン問題.md",
+    "包除原理.md",
+    "全列挙.md",
+    "二部マッチング問題.md",
+    "ビットリサイクル.md",
+    "ダイクストラ法.md",
+    "Stern Brocot Tree.md",
+    "bit操作.md",
+    "1＜＜N.md",
+    "GCDとLCM.md",
+    "popcount.md",
+    "imos法.md",
+    "セグメント木.md",
+    "グラフ理論.md",
+    "無向グラフ.md",
+    "ランレングス圧縮.md",
+    "algonote"
   ]
 }
