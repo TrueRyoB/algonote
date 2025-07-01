@@ -1,1 +1,0 @@
-https://blue-s.tech/?p=167

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1467e0f585a3bb68",
+        "id": "a06033fe063cd944",
         "type": "tabs",
         "children": [
           {
-            "id": "4c42bfbe7f08a484",
+            "id": "b7450c24412c8d1b",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "グラフ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,34 +164,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c42bfbe7f08a484",
+  "active": "b7450c24412c8d1b",
   "lastOpenFiles": [
-    "二分探索.md",
-    "超技巧あるいは閃き.md",
-    "貪欲.md",
+    "順算.md",
+    "支点.md",
+    "数学的翻訳.md",
+    "集合判定木.md",
     "逆算.md",
+    "状態圧縮.md",
+    "ワ―シャルフロイド法.md",
+    "更新順序.md",
+    "動的計画法.md",
+    "優先探索.md",
+    "貪欲.md",
+    "差分.md",
     "全探索.md",
+    "当たり判定.md",
+    "二分探索.md",
+    "解法.md",
+    "外延的.md",
+    "基本データ構造.md",
+    "無向グラフ.md",
+    "高速素数判定.md",
+    "超技巧あるいは閃き.md",
     "順列全探索.md",
     "累積和.md",
     "組み合わせ論理.md",
     "無名関数.md",
     "期待値DP.md",
-    "巡回サラリーマン問題.md",
-    "包除原理.md",
-    "全列挙.md",
-    "二部マッチング問題.md",
-    "ビットリサイクル.md",
-    "ダイクストラ法.md",
-    "Stern Brocot Tree.md",
-    "bit操作.md",
-    "1＜＜N.md",
-    "GCDとLCM.md",
-    "popcount.md",
-    "imos法.md",
-    "セグメント木.md",
-    "グラフ理論.md",
-    "無向グラフ.md",
-    "ランレングス圧縮.md",
     "algonote"
   ]
 }
