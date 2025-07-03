@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ee477d08ce80bfb",
+        "id": "e7e4720930448611",
         "type": "tabs",
         "children": [
           {
-            "id": "5b5efdf4e52aa23f",
+            "id": "b2126d2ab508734f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,10 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b5efdf4e52aa23f",
+  "active": "b2126d2ab508734f",
   "lastOpenFiles": [
-    "二分探索.md",
+    "単純グラフ.md",
     "README.md",
+    "二分探索.md",
     "x.com/deep_nap_engine.md",
     "x.com",
     "優先探索.md",
@@ -196,7 +197,6 @@
     "超技巧あるいは閃き.md",
     "順列全探索.md",
     "累積和.md",
-    "組み合わせ論理.md",
     "algonote"
   ]
 }
