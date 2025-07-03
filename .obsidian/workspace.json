@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a06033fe063cd944",
+        "id": "8ee477d08ce80bfb",
         "type": "tabs",
         "children": [
           {
-            "id": "b7450c24412c8d1b",
+            "id": "5b5efdf4e52aa23f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -164,25 +168,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b7450c24412c8d1b",
+  "active": "5b5efdf4e52aa23f",
   "lastOpenFiles": [
-    "順算.md",
-    "支点.md",
-    "数学的翻訳.md",
-    "集合判定木.md",
-    "逆算.md",
-    "状態圧縮.md",
-    "ワ―シャルフロイド法.md",
-    "更新順序.md",
-    "動的計画法.md",
-    "優先探索.md",
-    "貪欲.md",
-    "差分.md",
-    "全探索.md",
-    "当たり判定.md",
+    "x.com/deep_nap_engine.md",
+    "README.md",
+    "x.com",
     "二分探索.md",
-    "解法.md",
+    "優先探索.md",
+    "全探索.md",
     "外延的.md",
+    "差分.md",
+    "当たり判定.md",
+    "支点.md",
+    "状態圧縮.md",
+    "更新順序.md",
+    "数学的翻訳.md",
+    "解法.md",
+    "貪欲.md",
+    "逆算.md",
+    "順算.md",
+    "集合判定木.md",
+    "ワ―シャルフロイド法.md",
+    "動的計画法.md",
     "基本データ構造.md",
     "無向グラフ.md",
     "高速素数判定.md",
@@ -190,8 +197,6 @@
     "順列全探索.md",
     "累積和.md",
     "組み合わせ論理.md",
-    "無名関数.md",
-    "期待値DP.md",
     "algonote"
   ]
 }
